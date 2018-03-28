@@ -1,0 +1,7 @@
+Microsoft,MSFT,-,89.39,20,88
+Facebook,FCBK,-,153.03,0,154.42
+Twitter,TWTR,-,28.45,500,28.3
+Adobe,ADBE,-,212.54,0, 211.98
+MySpace,MSPC,-,15.43,240,15.9
+Google,GOGL,-,1005.18,3,1004.67
+Apple,APPL,-,166.48,50,168.5
